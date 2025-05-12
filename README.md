@@ -1,4 +1,4 @@
-# A Lightweight Lisp Dialect Compiler
+# Lisp Dialect Compiler
 
 A lightweight compiler for a custom Lisp dialect, written in ANSI C. It uses Flex for lexical analysis and Bison for parsing, drawing inspiration from the "Build Your Own Lisp" book by Daniel Holden.
 
