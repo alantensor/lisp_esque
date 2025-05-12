@@ -83,14 +83,4 @@ Or multiple files:
     *   `eval.h`, `eval.c`: Lisp expression evaluation logic and built-in functions.
     *   `main.c`: Main program entry point, REPL, and file processing logic.
 
-## Inspiration
 
-This project is heavily inspired by Daniel Holden's excellent book, [Build Your Own Lisp](http://www.buildyourownlisp.com/).
-
-## Future Development
-
-*   Macros
-*   More advanced error reporting and recovery
-*   Garbage collection
-*   Further standard library functions
-*   Optimizations
